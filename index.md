@@ -1,5 +1,7 @@
 ## Welcome to LoneWolf IT.
 
+![Image](http://i.myniceprofile.com/101/10180.gif)
+
 This site will most likely contain blog posts about Information Security, Software Development, and other various things that I get up to.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

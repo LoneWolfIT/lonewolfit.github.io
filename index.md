@@ -1,6 +1,6 @@
 ## Welcome to LoneWolf IT.
 
-![Image](http://i.myniceprofile.com/101/10180.gif)
+![Image](/puppy.gif)
 
 This site will most likely contain blog posts about Information Security, Software Development, and other various things that I get up to.
 
